@@ -84,7 +84,7 @@ a:focus-visible {
 
 .hero {
     min-height: 360px;
-    background: url('images/hero.png') no-repeat center center/cover;
+    background: url('https://github.com/yuria-n/mangata-and-gallo/blob/main/images/hero.png?raw=true') no-repeat center center/cover;
     padding: 8rem 2.5rem;
 }
 
@@ -125,7 +125,7 @@ a:focus-visible {
 }
 
 .brand-history {
-    background: url('images/brand.png') no-repeat center center/cover;
+    background: url('https://github.com/yuria-n/mangata-and-gallo/blob/main/images/brand.png?raw=true') no-repeat center center/cover;
     padding: 5rem 2.5rem 6rem 50%;
 }
 
